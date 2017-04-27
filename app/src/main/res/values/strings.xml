@@ -1,0 +1,102 @@
+<resources>
+    <string name="app.name">开源中国</string>
+
+    <string name="empty"></string>
+
+    <!-- Title for tab_menu -->
+    <string name="app.menu.message">我的消息</string>
+    <string name="app.menu.blog">我的博客</string>
+    <string name="app.menu.action">我的活动</string>
+    <string name="app.menu.team">我的团队</string>
+
+    <string name="app.bottom.menu.new">综合</string>
+    <string name="app.bottom.menu.tweet">动弹</string>
+    <string name="app.bottom.menu.explore">发现</string>
+
+
+    <string name="app.new.tab.info">资讯</string>
+    <string name="app.new.tab.blog">博客</string>
+    <string name="app.new.tab.quesion">问答</string>
+    <string name="app.new.tab.active">活动</string>
+
+    <string name="app.tweet.tab.new">最新</string>
+    <string name="app.tweet.tab.hot">热门</string>
+    <string name="app.tweet.tab.mine">我的</string>
+
+    <string name="app.blog.tab.new">最新推荐</string>
+    <string name="app.blog.tab.hot">本周热门</string>
+    <string name="app.blog.tab.blog">最新博客</string>
+
+    <string name="app.question.tab.question">提问</string>
+    <string name="app.question.tab.share">分享</string>
+    <string name="app.question.tab.composite">综合</string>
+    <string name="app.question.tab.job">职业</string>
+    <string name="app.question.tab.server">站务</string>
+
+    <string name="app.oscsite">官网</string>
+    <string name="app.active.status.singup">截止报名</string>
+    <string name="app.active.status.end">活动结束</string>
+    <string name="app.active.status.ing">正在报名</string>
+    <string name="app.active.type.osc">源创会</string>
+    <string name="app.active.type.tec">技术交流</string>
+    <string name="app.active.type.other">其他</string>
+    <string name="app.active.type.outside">站外活动</string>
+    <string name="app.active.type.join">人参与</string>
+
+    <string name="app.device.web">网页</string>
+    <string name="app.device.mobile">手机</string>
+    <string name="app.device.android">Android</string>
+    <string name="app.device.iphone">iPhone</string>
+    <string name="app.device.windowsphone">Windows Phone</string>
+    <string name="app.device.wechat">微信</string>
+
+    <string name="app.explore.opensource">开源软件</string>
+    <string name="app.explore.find">找人</string>
+    <string name="app.explore.scan">扫一扫</string>
+    <string name="app.explore.shark">摇一摇</string>
+
+    <string name="app.mine.tweet">动弹</string>
+    <string name="app.mine.favorite">收藏</string>
+    <string name="app.mine.attention">关注</string>
+    <string name="app.mine.follower">粉丝</string>
+    <string name="app.mine.tip.login">点击头像登陆</string>
+    <string name="app.mine.score">积分</string>
+    <string name="app.mine.head.title">选择操作</string>
+    <string name="app.mine.head.change.title">选择图片</string>
+
+    <string name="app.detail.title">详情</string>
+    <string name="app.detail.software.about.hint">相关软件</string>
+    <string name="app.detail.software.comment.hint">相关评论</string>
+    <string name="app.detail.software.more.hint">更多评论</string>
+    <string name="app.detail.pub.about">发布于</string>
+
+
+    <string name="app.news.detail.title">资讯详情</string>
+    <string name="app.blog.detail.title">博客详情</string>
+    <string name="app.question.detail.title">问答详情</string>
+    <string name="app.active.detail.title">活动详情</string>
+
+    <string-array name="app_mine_head_select">
+        <item>更换头像</item>
+        <item>查看大头像</item>
+    </string-array>
+
+    <string-array name="app_mine_head_chang">
+        <item>相册</item>
+        <item>相机</item>
+    </string-array>
+
+    <string name="app.login.login">登陆</string>
+
+    <array name="new_tabs">
+        <item>@string/app.new.tab.info</item>
+        <item>@string/app.new.tab.blog</item>
+        <item>@string/app.new.tab.quesion</item>
+        <item>@string/app.new.tab.active</item>
+    </array>
+    <array name="tweet_tabs">
+        <item>@string/app.tweet.tab.new</item>
+        <item>@string/app.tweet.tab.hot</item>
+        <item>@string/app.tweet.tab.mine</item>
+    </array>
+</resources>
